@@ -1,10 +1,11 @@
 cmake_minimum_required(VERSION 3.25)
-project(CPP_Learning)
+project(CodeProblemsSolutions)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CPP_Learning source/main.cpp
+add_executable(CodeProblemsSolutions
 
+        source/main.cpp
         source/CodeWars/Declarations.h
 
         source/CodeWars/2ndKyu/Declarations.h

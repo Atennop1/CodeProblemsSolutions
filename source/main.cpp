@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << SixthKyu::LastNonEmptyString("zzzzzzz");
+    std::cout << SecondKyu::PointerMonster();
     return 0;
 }
