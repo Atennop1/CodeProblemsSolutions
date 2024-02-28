@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << SecondKyu::PointerMonster();
+    std::cout << LeetCodeNormal::Solutions::MyAtoi("-5-");
     return 0;
 }

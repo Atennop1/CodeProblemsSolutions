@@ -61,4 +61,4 @@ add_executable(CodeProblemsSolutions
         source/LeetCode/Normal/IntegerToRoman.cpp
         source/LeetCode/Normal/ReverseInteger.cpp
         source/LeetCode/Normal/DivideTwoIntegers.cpp
-        source/LeetCode/Normal/LetterCombinations.cpp)
+        source/LeetCode/Normal/LetterCombinations.cpp source/LeetCode/Normal/MyAtoi.cpp)
