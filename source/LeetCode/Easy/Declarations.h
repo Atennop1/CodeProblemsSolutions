@@ -19,6 +19,7 @@ namespace LeetCodeEasy
         static int SingleNumber(const std::vector<int> &numbers);
         static uint32_t ReverseBits(uint32_t n);
         static int HammingWeight(uint32_t number);
+        static bool IsPalindrome(const std::string& string);
     };
 }
 
