@@ -20,6 +20,7 @@ namespace LeetCodeEasy
         static uint32_t ReverseBits(uint32_t n);
         static int HammingWeight(uint32_t number);
         static bool IsPalindrome(const std::string& string);
+        static int TitleToNumber(const std::string& column_title);
     };
 }
 

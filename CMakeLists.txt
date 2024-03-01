@@ -56,6 +56,7 @@ add_executable(CodeProblemsSolutions
         source/LeetCode/Easy/ReverseBits.cpp
         source/LeetCode/Easy/HammingWeight.cpp
         source/LeetCode/Easy/IsPalindrome.cpp
+        source/LeetCode/Easy/TitleToNumber.cpp
 
         source/LeetCode/Normal/Declarations.h
         source/LeetCode/Normal/AddTwoNumbers.cpp
