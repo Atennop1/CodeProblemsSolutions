@@ -2,7 +2,7 @@
 
 namespace FifthKyu
 {
-    std::string incrementString(const std::string &input)
+    std::string IncrementString(const std::string &input)
     {
         std::string result = input;
         int length = (int)result.length();
