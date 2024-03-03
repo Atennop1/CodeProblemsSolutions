@@ -3,7 +3,7 @@
 
 namespace FifthKyu
 {
-    std::string phone(const std::string &directory, const std::string &phone_number)
+    std::string Phone(const std::string &directory, const std::string &phone_number)
     {
         std::size_t number_position = directory.find(phone_number);
 
