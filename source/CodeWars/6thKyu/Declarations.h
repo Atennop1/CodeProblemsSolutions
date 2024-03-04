@@ -18,6 +18,7 @@ namespace SixthKyu
     uint32_t AmountOfPages(uint32_t summary);
     int Mobius(long long int n);
     std::string LastNonEmptyString(const std::string& str);
+    int BreakTheWeb(int strength, int width);
 }
 
 #endif
