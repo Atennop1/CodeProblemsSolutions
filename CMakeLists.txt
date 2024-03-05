@@ -28,6 +28,7 @@ add_executable(CodeProblemsSolutions
         source/CodeWars/5thKyu/IncrementString.cpp
         source/CodeWars/5thKyu/PhoneDirectory.cpp
         source/CodeWars/5thKyu/ROT13.cpp
+        source/CodeWars/5thKyu/Check1800.cpp
 
         source/CodeWars/6thKyu/Declarations.h
         source/CodeWars/6thKyu/SchrodingersBoolean.cpp

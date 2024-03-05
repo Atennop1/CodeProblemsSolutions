@@ -4,6 +4,7 @@
 #include <vector>
 #include <string>
 #include <array>
+#include <set>
 
 namespace FifthKyu
 {
@@ -12,6 +13,7 @@ namespace FifthKyu
     std::string IncrementString(const std::string &input);
     std::string Phone(const std::string &directory, const std::string &phone_number);
     std::string ROT13(const std::string &string);
+    std::set<std::string> Check1800(const std::string &string);
 }
 
 #endif
