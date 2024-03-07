@@ -5,7 +5,7 @@
 
 int main()
 {
-    auto result = FifthKyu::Check1800("1-800-INK-WANT");
+    auto result = FifthKyu::Check1800_2("1-800-INK-WANT");
 
     for (const std::string &str : result)
         std::cout << str << '\n';

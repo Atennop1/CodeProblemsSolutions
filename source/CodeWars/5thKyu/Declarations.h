@@ -14,6 +14,7 @@ namespace FifthKyu
     std::string Phone(const std::string &directory, const std::string &phone_number);
     std::string ROT13(const std::string &string);
     std::set<std::string> Check1800(const std::string &string);
+    std::set<std::string> Check1800_2(const std::string &string);
 }
 
 #endif
