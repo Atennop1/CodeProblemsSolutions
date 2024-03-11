@@ -71,4 +71,5 @@ add_executable(CodeProblemsSolutions
         source/LeetCode/Normal/ReverseInteger.cpp
         source/LeetCode/Normal/DivideTwoIntegers.cpp
         source/LeetCode/Normal/LetterCombinations.cpp
-        source/LeetCode/Normal/MyAtoi.cpp)
+        source/LeetCode/Normal/MyAtoi/MyAtoi.cpp
+        source/LeetCode/Normal/MyAtoi/MyAtoi_2.cpp)

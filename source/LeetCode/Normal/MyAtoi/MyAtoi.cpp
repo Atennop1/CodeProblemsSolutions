@@ -1,9 +1,9 @@
 #include <valarray>
-#include "Declarations.h"
+#include "../Declarations.h"
 
 namespace LeetCodeNormal
 {
-    int Solutions::MyAtoi(std::string string)
+    int Solutions::MyAtoi(const std::string &string)
     {
         if (string.empty())
             return 0;

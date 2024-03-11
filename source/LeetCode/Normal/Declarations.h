@@ -25,7 +25,8 @@ namespace LeetCodeNormal
         static int Reverse(int x);
         static int Divide(int dividend, int divisor);
         static std::vector<std::string> LetterCombinations(const std::string& digits);
-        static int MyAtoi(std::string string);
+        static int MyAtoi(const std::string &string);
+        static int MyAtoi_2(const std::string &string);
     };
 }
 
