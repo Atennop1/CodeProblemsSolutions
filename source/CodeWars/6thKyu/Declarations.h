@@ -20,6 +20,7 @@ namespace SixthKyu
     std::string LastNonEmptyString(const std::string& str);
     int BreakTheWeb(int strength, int width);
     int Solve(const std::vector<int> &vector);
+    std::string BlockPrint(const std::string &input);
 }
 
 #endif

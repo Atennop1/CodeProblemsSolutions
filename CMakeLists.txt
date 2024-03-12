@@ -47,6 +47,7 @@ add_executable(CodeProblemsSolutions
         source/CodeWars/6thKyu/EmptyString.cpp
         source/CodeWars/6thKyu/BreakTheWeb.cpp
         source/CodeWars/6thKyu/SimpleMissingSum.cpp
+        source/CodeWars/6thKyu/BlockPrint/BlockPrint.cpp
 
 
         source/LeetCode/Declarations.h
