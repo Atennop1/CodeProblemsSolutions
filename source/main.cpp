@@ -5,10 +5,6 @@
 
 int main()
 {
-    auto result = FifthKyu::Check1800_2("1-800-INK-WANT");
-
-    for (const std::string &str : result)
-        std::cout << str << '\n';
-
+    std::cout << FifthKyu::CodeSquaredStrings::Code("If you read this, I wish you good and productive day! :)");
     return 0;
 }

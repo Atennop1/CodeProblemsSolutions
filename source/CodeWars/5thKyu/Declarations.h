@@ -15,6 +15,13 @@ namespace FifthKyu
     std::string ROT13(const std::string &string);
     std::set<std::string> Check1800(const std::string &string);
     std::set<std::string> Check1800_2(const std::string &string);
+
+    class CodeSquaredStrings
+    {
+    public:
+        static std::string Code(const std::string &string);
+        static std::string Decode(const std::string &string);
+    };
 }
 
 #endif

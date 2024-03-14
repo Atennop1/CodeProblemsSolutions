@@ -212,7 +212,15 @@ std::map<char, std::vector<std::string>> alpha =
                    "  Z  ",
                    " Z   ",
                    "Z    ",
-                   "ZZZZZ" } }
+                   "ZZZZZ" } },
+
+    { ' ', { "     ",
+                   "     ",
+                   "     ",
+                   "     ",
+                   "     ",
+                   "     ",
+                   "     " } }
 };
 
 #endif

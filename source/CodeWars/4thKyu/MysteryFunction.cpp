@@ -61,6 +61,6 @@ namespace FourthKyu
 
     std::string NameOfMystery()
     {
-        return "Gray code";
+        return "Gray Code";
     }
 }
