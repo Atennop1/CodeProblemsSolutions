@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << FifthKyu::CodeSquaredStrings::Code("If you read this, I wish you good and productive day! :)");
+    std::cout << FifthKyu::CodeSquaredStrings::Decode("\013:iduiAaI\n\013)v  stdf\n\013\013epghe  \n\013\013 rointy\n\013\013doonnho\n\013\013addgoiu\n\013\013yu  ps \n\013\013!cay ,r\n\013\013 tnow e");
     return 0;
 }
