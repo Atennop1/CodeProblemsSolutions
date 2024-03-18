@@ -22,6 +22,13 @@ namespace FifthKyu
         static std::string Code(const std::string &string);
         static std::string Decode(const std::string &string);
     };
+
+    class CaesarCipher
+    {
+    public:
+        static std::vector<std::string> MovingShift(const std::string &string, int shift);
+        static std::string RemovingShift(std::vector<std::string> &string, int shift);
+    };
 }
 
 #endif

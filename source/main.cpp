@@ -5,6 +5,9 @@
 
 int main()
 {
-    std::cout << FifthKyu::CodeSquaredStrings::Decode("\013:iduiAaI\n\013)v  stdf\n\013\013epghe  \n\013\013 rointy\n\013\013doonnho\n\013\013addgoiu\n\013\013yu  ps \n\013\013!cay ,r\n\013\013 tnow e");
+    std::vector<std::string> v = { "J vltasl rlhr ", "zdfog odxr ypw", " atasl rlhr p ", "gwkzzyq zntyhv", " lvz wp!!!" };
+    std::string result = FifthKyu::CaesarCipher::RemovingShift(v, 1);
+
+     std::cout << result << "\n";
     return 0;
 }

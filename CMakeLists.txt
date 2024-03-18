@@ -32,6 +32,7 @@ add_executable(CodeProblemsSolutions
         source/CodeWars/5thKyu/Check1800/Check1800.cpp
         source/CodeWars/5thKyu/Check1800/Check1800_2.cpp
         source/CodeWars/5thKyu/SquaredStrings.cpp
+        source/CodeWars/5thKyu/CaesarCipher.cpp
 
         source/CodeWars/6thKyu/Declarations.h
         source/CodeWars/6thKyu/SchrodingersBoolean.cpp
